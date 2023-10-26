@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "652b983d7042ce0bd8894a6d"
+  },
+  "name": "Honda City",
+  "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20230302014022_City_front.jpeg",
+  "rentPerHour": 700,
+  "fuelType": "petrol",
+  "bookedTimeSlots": [],
+  "capacity": 5
+},{
+  "_id": {
+    "$oid": "652fc091c922b815501c53ac"
+  },
+  "name": "Hero Splendor",
+  "image": "https://bd.gaadicdn.com/processedimages/hero/splendor-plus-xtec/640X309/splendor-plus-xtec63fca49d7a748.jpg",
+  "rentPerHour": 200,
+  "fuelType": "petrol",
+  "bookedTimeSlots": [],
+  "capacity": 2
+}]
